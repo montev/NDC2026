@@ -1,0 +1,7 @@
+site_name: NDC Security 2026
+site_description: Agenda og notater fra NDC Security 2026, Oslo
+theme:
+  name: material
+
+nav:
+  - Hjem: index.md
