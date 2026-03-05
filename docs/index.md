@@ -9,11 +9,11 @@
 
 | Rom | YouTube Live |
 |-----|---------------|
-| **Room 1** | https://www.youtube.com/live/fbPQ9fIlZ0E |
-| **Room 2** | https://www.youtube.com/live/4HACQtUZ0z8 |
-| **Room 3** | https://www.youtube.com/live/QpDgIgFv_NM |
-| **Room 4** | https://www.youtube.com/live/kKLc27v9B3s |
-| **Room 5** | https://www.youtube.com/live/UDSGwIa7hS8 |
+| **Room 1** | <a href="https://www.youtube.com/live/fbPQ9fIlZ0E" target="_blank">Se stream</a> |
+| **Room 2** | <a href="https://www.youtube.com/live/4HACQtUZ0z8" target="_blank">Se stream</a> |
+| **Room 3** | <a href="https://www.youtube.com/live/QpDgIgFv_NM" target="_blank">Se stream</a> |
+| **Room 4** | <a href="https://www.youtube.com/live/kKLc27v9B3s" target="_blank">Se stream</a> |
+| **Room 5** | <a href="https://www.youtube.com/live/UDSGwIa7hS8" target="_blank">Se stream</a> |
 
 ---
 
@@ -69,10 +69,10 @@
 
 | Rom | YouTube Live |
 |-----|---------------|
-| **Room 1** | https://www.youtube.com/live/75moHxqyvFQ |
-| **Room 2** | https://www.youtube.com/live/97awOX0TaLs |
-| **Room 3** | https://www.youtube.com/live/osMrLt8ibbA |
-| **Room 4** | https://www.youtube.com/live/7qG-1VcVtBk |
+| **Room 1** | <a href="https://www.youtube.com/live/75moHxqyvFQ" target="_blank">Se stream</a> |
+| **Room 2** | <a href="https://www.youtube.com/live/97awOX0TaLs" target="_blank">Se stream</a> |
+| **Room 3** | <a href="https://www.youtube.com/live/osMrLt8ibbA" target="_blank">Se stream</a> |
+| **Room 4** | <a href="https://www.youtube.com/live/7qG-1VcVtBk" target="_blank">Se stream</a> |
 | **Room 5** | *(Mangler ennå)* |
 
 ---
