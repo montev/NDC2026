@@ -29,7 +29,8 @@
 - **Room 2:** *Getting Authorization Right in .NET* – **Michele Leroux Bustamante**
 - **Room 3:** *Securing Model Context Protocol (MCP)* – **Jim Manico**
 - **Room 4:** *MCP Security: Keep Your AI Agents from Spilling the Tea* – **Awar Abdulkarim & Manfred Bjørlin**
-- **Room 5:** *Part 1/2: Hack your own pipeline* – **Jan-Kåre Solbakken & Emil Albrektsson**  
+- **Room 5:** *Part 1/2: Hack your own pipeline* – **Jan-Kåre Solbakken & Emil Albrektsson**
+  - - If want to set up this workshop in your own org: [https://github.com/gh-ws/ws-setup](https://github.com/gh-ws/ws-setup)
   > *Emil is an Application Security practitioner & security champion advocate.* :contentReference[oaicite:3]{index=3}
 
 #### **11:40 – 12:40**
