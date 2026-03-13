@@ -1,4 +1,5 @@
 # 📌 NDC Security 2026 – Oslo
+
 **Dato:** 4–5 mars 2026  
 **Sted:** Radisson Blu Scandinavia Hotel, Oslo, Norway  
 **Livestream:** YouTube Live  
